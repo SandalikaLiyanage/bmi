@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:maridian/constants.dart';
+import 'package:bmi/constants.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:maridian/main_page.dart';
+import 'package:bmi/main_page.dart';
 
 void main() {
   runApp(const MyApp());
